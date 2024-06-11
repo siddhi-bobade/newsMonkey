@@ -1,0 +1,1386 @@
+// {
+//     "status": "ok",
+//     "totalResults": 193,
+//     "articles": [
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "heise online"
+//             },
+//             "author": "Frank Schräer",
+//             "title": "Freitag: Kartellklage gegen Ticketmaster, Ataris Übernahme von Intellivision",
+//             "description": "Monopolmissbrauch in USA + Atari kauft Intellivision + Megawatt-Kühlung für Server + Millionenklage wegen Robocalls + Skylums Porträtbearbeitung + Amazon-Klage",
+//             "url": "https://www.heise.de/news/Freitag-Kartellklage-gegen-Ticketmaster-Ataris-Uebernahme-von-Intellivision-9730465.html",
+//             "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/9/6/6/8/9/friday-5adf4c6208c2d18a.webp",
+//             "publishedAt": "2024-05-24T04:30:00Z",
+//             "content": "Mittels Kartellklage wollen die USA den Konzertveranstalter Live Nation und dessen Kartenverkäufer Ticketmaster aufspalten. Es geht um mehr als hohe Gebühren. Künstler hätten weniger Gelegenheiten fü… [+7085 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Genbeta.com"
+//             },
+//             "author": "Bárbara Bécares",
+//             "title": "Puedes conseguir que tus trabajadores vayan a la oficina, pero no los buenos: este experto expone las malas decisiones de los jefes",
+//             "description": "Algunos de los trabajadores más talentosos y de alto rango de Apple, Microsoft y SpaceX han dejado sus empresas después de que ordenasen a la plantilla volver a la oficina, según ha descubierto un nuevo estudio. Se pudo comprobar cómo los mandatos de meter a …",
+//             "url": "https://www.genbeta.com/actualidad/puedes-conseguir-que-tus-trabajadores-vayan-a-oficina-no-buenos-este-experto-expone-malas-decisiones-jefes",
+//             "urlToImage": "https://i.blogs.es/96e169/rivage-im_cq6hqo10-unsplash/840_560.jpeg",
+//             "publishedAt": "2024-05-24T06:35:08Z",
+//             "content": "Algunos de los trabajadores más talentosos y de alto rango de Apple, Microsoft y SpaceX han dejado sus empresas después de que ordenasen a la plantilla volver a la oficina, según ha descubierto un nu… [+4092 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "AppleInsider"
+//             },
+//             "author": "news@appleinsider.com (Wesley Hilliard)",
+//             "title": "Experience Immersive sizzle reel for Apple Vision Pro updated with new scenes, sports",
+//             "description": "Apple has updated the short sizzle reel included in the immersive video section of the Apple Vision Pro Apple TV app to include scenes from American football, basketball, and other content.Apple Vision Pro Immersive ExperienceApple Vision Pro has had quite a …",
+//             "url": "https://appleinsider.com/articles/24/05/24/experience-immersive-sizzle-reel-for-apple-vision-pro-updated-with-new-scenes-sports",
+//             "urlToImage": "https://photos5.appleinsider.com/gallery/59787-122250-vOS25-xl.jpg",
+//             "publishedAt": "2024-05-24T02:52:39Z",
+//             "content": "Apple Vision Pro Immersive Experience\r\nApple has updated the short sizzle reel included in the immersive video section of the Apple Vision Pro Apple TV app to include scenes from American football, b… [+1801 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "AppleInsider"
+//             },
+//             "author": "news@appleinsider.com (Wesley Hilliard)",
+//             "title": "iOS resurrected photo bug fixed with iOS 17.5.1 detailed by Apple",
+//             "description": "Deleted photos reappeared on some iPhones running iOS 17.5, and Apple has finally clarified how that might occur — it isn't iCloud.Deleted photos were reappearing in people's Photos appThe iOS 17.5.1 update that fixed the reappearing photos bug had a brief de…",
+//             "url": "https://appleinsider.com/articles/24/05/24/ios-resurrected-photo-bug-fixed-with-ios-1751-detailed-by-apple",
+//             "urlToImage": "https://photos5.appleinsider.com/gallery/59786-122249-delete-photo-xl.jpg",
+//             "publishedAt": "2024-05-24T00:37:49Z",
+//             "content": "Deleted photos were reappearing in people's Photos app\r\nDeleted photos reappeared on some iPhones running iOS 17.5, and Apple has finally clarified how that might occur — it isn't iCloud.\r\nThe iOS 17… [+1596 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Gizmodo.jp"
+//             },
+//             "author": "そうこ",
+//             "title": "新型iPad Airを使った結論「よし、新型iPad Proを買おう！」",
+//             "description": "新型iPad Air。iPad Proの影に隠れてしまっていますが、その実力はどうなのか。米Gizmodoがレビューしています。",
+//             "url": "https://www.gizmodo.jp/2024/05/ipad-air-2024-review-tablet-m2-performance-display.html",
+//             "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/05/22/240522m2ipadair.jpg?w=1280&h=630&f=jpg",
+//             "publishedAt": "2024-05-24T03:00:00Z",
+//             "content": "AppleiPadiPad ProiPad AiriPad ProM4OLED\r\niPad AirAir\r\nGizmodo\r\n13iPad ProiPad AiriPad13iPad Pro13Air111313\r\n119880013128800WiFi\r\nPhoto: Dua Rashid / Gizmodo US\r\nLEDLiquid Retina60Hz2,732×2,048600nit1… [+477 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "HYPEBEAST"
+//             },
+//             "author": "info@hypebeast.com (Hypebeast)",
+//             "title": "Cash Cobain Enlists J. Cole for Subtly Catchy New Single \"Grippy\"",
+//             "description": "Cash Cobain and J. Cole join forces for the former's newest single, \"Grippy.\"Clocking in at almost four minutes, the latest track is an updated version of the rising NYC star's hit 2023 song \"Dunk Contest.\" Cobain shines through and through as he elevates his…",
+//             "url": "https://hypebeast.com/2024/5/j-cole-cash-cobain-grippy-single-stream",
+//             "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F23%2Fj-cole-cash-cobain-grippy-single-stream-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+//             "publishedAt": "2024-05-24T04:32:16Z",
+//             "content": "Cash Cobain and J. Cole join forces for the former’s newest single, “Grippy.”\r\nClocking in at almost four minutes, the latest track is an updated version of the rising NYC star’s hit 2023 song “Dunk … [+833 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "HYPEBEAST"
+//             },
+//             "author": "info@hypebeast.com (Hypebeast)",
+//             "title": "RM's ‘Right Place, Wrong Person’ Is a Dynamic and Exciting Offering: Review",
+//             "description": "RM's explorative nature shines through on his second solo effort, Right Place, Wrong Person.The 11-track album clocks in at an easy 35 minutes and arrives about a year and a half after the BTS star's solo debut, Indigo. Right Place, Wrong Person takes a sharp…",
+//             "url": "https://hypebeast.com/2024/5/rm-bts-right-place-wrong-person-album-stream",
+//             "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F24%2Ftw-rm-bts-right-place-wrong-person-album-stream.jpg?w=1080&cbr=1&q=90&fit=max",
+//             "publishedAt": "2024-05-24T05:32:07Z",
+//             "content": "RM‘s explorative nature shines through on his second solo effort, Right Place, Wrong Person.\r\nThe 11-track album clocks in at an easy 35 minutes and arrives about a year and a half after the BTS star… [+1394 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "HYPEBEAST"
+//             },
+//             "author": "info@hypebeast.com (Hypebeast)",
+//             "title": "Vince Staples Finds the Light During the 'Dark Times' in Full-Bodied New Album: Review",
+//             "description": "Vince Staples is beginning a new chapter in his career with Dark Times — his eight and final studio album under Def Jam Recordings.Clocking in at 35 minutes, the 13-track record is a tightly-packed project filled with direct and introspective lyricism over mo…",
+//             "url": "https://hypebeast.com/2024/5/vince-staples-dark-times-album-stream",
+//             "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F23%2Fvince-staples-dark-times-album-stream-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+//             "publishedAt": "2024-05-24T03:27:28Z",
+//             "content": "Vince Staples is beginning a new chapter in his career with Dark Times  his eight and final studio album under Def Jam Recordings.\r\nClocking in at 35 minutes, the 13-track record is a tightly-packed … [+2004 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Appinn.com"
+//             },
+//             "author": "青小蛙",
+//             "title": "Dola – AI 日历助手：与机器人聊天，自动设置日历",
+//             "description": "Dola 是一款 AI 日历助手，通过与 Apple Messages、Telegram、LINE、WhatsAPP、微信(?) 机器人对话，支持文字、语音、图片（如行程单），就会自动在日历中生成提醒事件（支持苹果日历、",
+//             "url": "https://www.appinn.com/dola-ai-calendar/",
+//             "urlToImage": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-24T114512.497.jpg",
+//             "publishedAt": "2024-05-24T03:58:35Z",
+//             "content": "Dola AI Apple MessagesTelegramLINEWhatsAPP(?) CalDAV @Appinn\r\nDola IM \r\nDola AI 2024\r\nDola \r\n Dola \r\nDola CalDAV \r\nDola DAVx5\r\nhttps://www.appinn.com/dola-ai-calendar/\r\nDola Dola \r\n…"
+//         },
+//         {
+//             "source": {
+//                 "id": "lenta",
+//                 "name": "Lenta"
+//             },
+//             "author": "Андрей Ставицкий",
+//             "title": "Раскрыта стоимость умного кольца Samsung",
+//             "description": "Раскрыта стоимость умного кольца Samsung",
+//             "url": "https://lenta.ru/news/2024/05/24/galaxy-ring/",
+//             "urlToImage": "https://icdn.lenta.ru/images/2024/05/23/13/20240523135257041/share_44a9907cb3bb1008628a32361d8606f4.jpg",
+//             "publishedAt": "2024-05-24T06:02:16Z",
+//             "content": "Samsung. X.\r\n , Galaxy Ring 300-350 , 27-32 . .\r\n , . 10 , 900 .\r\n The Verge , Galaxy Ring . , Ring Gen 3 Oura 299 349 . Oura 5,99 .\r\n , - . , Fitbit Premium Google Fitness Plus Apple 9,99 .\r\n, Samsu… [+30 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Ifanr.com"
+//             },
+//             "author": "苏伟鸿",
+//             "title": "早报|小米汽车今年冲击交付 12 万台/苹果折叠 MacBook 价格或比肩 Vision Pro/B 站用户日均使用时长创新高",
+//             "description": "· 联想上一财季净利润翻番，PC 以外业务占比创新高\n· 发力智能驾驶，消息称前图森未来中国 CTO 将加入小米\n· 特斯拉美国本土外首个储能超级工厂落地上海#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+//             "url": "https://www.ifanr.com/1586711",
+//             "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/chao_xian_dai_cover.jpg",
+//             "publishedAt": "2024-05-24T00:37:13Z",
+//             "content": "755 12 \r\n2024 ** 755 27.0% 65 100.8%** 22.3% 2.8 1 \r\n<ul><li> 33.7% 4060 3 4 465 14.8% 3.6 </li><li>IoT 204 21% 19.9%</li><li> 1273 52 25.4% 23 </li></ul> SU7 4 30 24 88063 43 1 CEO 6 1 10 12 \r\nPC \r\n… [+1896 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Wired.jp"
+//             },
+//             "author": "Carlton Reid",
+//             "title": "“iPhone”の終焉",
+//             "description": "1998年に発売されたアップルのコンピューターに「iMac」の名前を付けたのは、コピーライターだったケン・シーガルである。それ以降「i」が付くあらゆる製品が発売されたが、シーガルは、アップルは将来的にこの名称を使い続けるべきではないと考えている。",
+//             "url": "https://wired.jp/article/the-end-of-iphone/",
+//             "urlToImage": "https://media.wired.jp/photos/664c0fab110a831467900347/16:9/w_1280,c_limit/Apple-Dropping-the-i-Gear.jpg",
+//             "publishedAt": "2024-05-24T00:00:00Z",
+//             "content": "iPhone iPhoneApple PhoneApple PhoneiPhonei\r\nBattenhalliPhonei\r\niPhoneiPhoneiPhone\r\ni\r\n2007iPhone\r\nPhotograph: TONY AVELAR/Getty Images\r\niApple WatchApple Vision Proii\r\niPhoneiPadiiMaciBookiPodiPod Mi… [+159 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Touch Arcade"
+//             },
+//             "author": "Shaun Musgrave",
+//             "title": "An Interview with Robert Woodhead, Co-Creator of ‘Wizardry’: The Remake, M&Ms, Ninjas, and More",
+//             "description": "Hey, everyone! The spiffy new Digital Eclipse-developed remake of Wizardry: Proving Grounds of the Mad Overlord is out now on a variety of platforms. It's very good! It also gave me a chance to speak with one of the people behind the original game: Mr. Robert…",
+//             "url": "https://toucharcade.com/2024/05/23/an-interview-with-robert-woodhead-co-creator-of-wizardry-the-remake-mms-ninjas-and-more/",
+//             "urlToImage": null,
+//             "publishedAt": "2024-05-24T03:09:59Z",
+//             "content": "Hey, everyone! The spiffy new Digital Eclipse-developed remake of Wizardry: Proving Grounds of the Mad Overlord is out now on a variety of platforms. It’s very good! It also gave me a chance to speak… [+29542 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Smartworld.it"
+//             },
+//             "author": "Antonio Lepore",
+//             "title": "Apple starebbe lavorando su un MacBook pieghevole da 20\" con piega invisibile",
+//             "description": "Apple starebbe lavorando su un MacBook pieghevole, che avrebbe un punto di forza ed uno che non renderà contenti gli utenti.\r\nL'articolo Apple starebbe lavorando su un MacBook pieghevole da 20\" con piega invisibile sembra essere il primo su Smartworld.",
+//             "url": "https://www.smartworld.it/news/apple-macbook-pieghevole-piega-invisibile.html",
+//             "urlToImage": "https://www.smartworld.it/images/2024/03/28/macbook-air-m3-15-foto---01_1200x675.jpg",
+//             "publishedAt": "2024-05-24T05:49:00Z",
+//             "content": "Apple ancora non ha debuttato nel mercato dei pieghevoli, tuttavia le cose presto potrebbero cambiare. Stando a quanto diffuso dal noto analista Ming-Chi Kuo, Cupertino starebbe pensando ad un MacBoo… [+1284 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Smartworld.it"
+//             },
+//             "author": "Alessandro Nodari",
+//             "title": "Impostazioni, Siri e altre novità: ecco cosa attenderci da macOS 15",
+//             "description": "Apple non sa darsi pace con le impostazioni di sistema dei Mac: ecco come cambieranno ancora in macOS 15, insieme ad altre novità\r\nL'articolo Impostazioni, Siri e altre novità: ecco cosa attenderci da macOS 15 sembra essere il primo su Smartworld.",
+//             "url": "https://www.smartworld.it/news/macos-15-novita.html",
+//             "urlToImage": "https://www.smartworld.it/images/2024/05/24/macos-sonoma_1200x675.jpg",
+//             "publishedAt": "2024-05-24T06:11:00Z",
+//             "content": "A due settimane dal WWDC, durante il quale Apple presenterà gli aggiornamenti dei suoi sistemi operativi, emergono una serie di anticipazioni su macOS 15 (a proposito, in vista dell'aggiornamento for… [+3459 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Clubic"
+//             },
+//             "author": "Corentin Béchade",
+//             "title": "La course à l’IA chez Google ressemble \"exactement à ce qui s’est passé avec Google+\" selon un ex-employé",
+//             "description": "Le déploiement de l’IA chez Google serait-il précipité et mal pensé ? C’est en tout cas qu’affirme un ex-employé de l’entreprise, qui va même jusqu’à comparer Gemini à Google+.",
+//             "url": "https://www.clubic.com/actualite-527837-la-course-a-l-ia-chez-google-ressemble-exactement-a-ce-qui-s-est-passe-il-y-a-13-ans-avec-google-selon-un-ex-employe.html",
+//             "urlToImage": "https://pic.clubic.com/v1/images/2210997/raw",
+//             "publishedAt": "2024-05-24T05:53:00Z",
+//             "content": "Le déploiement de lIA chez Google serait-il précipité et mal pensé? Cest en tout cas quaffirme un ex-employé de lentreprise, qui va même jusquà comparer Gemini à Google+.\r\nLes plus jeunes dentre vous… [+2163 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Nextpit.de"
+//             },
+//             "author": "Jade Bryan",
+//             "title": "MacBook Fold: Apples MacBook-Foldable könnte ein Vermögen kosten",
+//             "description": "Das erste Foldable von Apple soll Gerüchten zufolge ein MacBook mit All-Screen-Design sein. Es könnte allerdings auch so viel kosten wie die Vision Pro.",
+//             "url": "https://www.nextpit.de/macbook-fold-apples-erstes-faltbares-macbook-koennte-vermoegen-kosten",
+//             "urlToImage": "https://fscl01.fonpit.de/userfiles/7695213/image/asus-zenbook-17-fold-oled/Asus-Zenbook-17-Fold-OLED--4.jpg",
+//             "publishedAt": "2024-05-24T06:00:00Z",
+//             "content": "Zum einen hat Ming-Chi Kuo auf Medium seine neuesten Prognosen zu diesem MacBook-Foldable veröffentlicht. Er betont, dass Apple einen flexiblen 20,2-Zoll-Hauptbildschirm plane, erwähnt aber auch, das… [+1978 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Forbes"
+//             },
+//             "author": "Steven Aquino, Contributor, \n Steven Aquino, Contributor\n https://www.forbes.com/sites/stevenaquino/",
+//             "title": "Jordyn Zimmerman Talks Recent CBS News Appearance, Apple Accessibility In Interview",
+//             "description": "Now 29, Zimmerman, who is autistic and nonverbal, told Wax and Novak that technology, specifically iPads, has instilled her with \"so much confidence to really connect ...",
+//             "url": "https://www.forbes.com/sites/stevenaquino/2024/05/23/jordyn-zimmerman-talks-recent-cbs-news-appearance-apple-accessibility-in-interview/",
+//             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/664fe534b3047612f60003c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+//             "publishedAt": "2024-05-24T01:19:52Z",
+//             "content": "Jordyn Zimmerman gave an interview on how tech helps her communicate. \r\nJordyn Zimmerman \r\nEarlier this month, Jamie Wax and Analisa Novak of CBS News published an interview with well-known and widel… [+4921 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Hdblog.it"
+//             },
+//             "author": "HDblog.it",
+//             "title": "iPad Air M1, offerta bomba da Unieuro: oggi a 399 euro. Sconto di oltre 200 euro",
+//             "description": "Super prezzo da Unieuro per iPad Air M1: oggi a 399 euro.",
+//             "url": "https://www.hdblog.it/tablet/offerte/n583851/apple-ipad-air-m1-offerta-bomba-unieuro-prezzo/",
+//             "urlToImage": "https://hd2.tudocdn.net/1154710?w=1920",
+//             "publishedAt": "2024-05-24T06:30:00Z",
+//             "content": "Super offerta da Unieuro per iPad Air di Apple con processore M1. In sconto con la campagna promozionale Tech Collection trovi il modello con connettività Wi-Fi e taglio di memoria da 64GB. Costa 399… [+989 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Iphoneitalia.com"
+//             },
+//             "author": "Giuseppe Migliorino",
+//             "title": "Apple spiega perché le foto cancellate sono riapparse su iPhone",
+//             "description": "Hai paura che le foto cancellate dal tuo vecchio iPhone siano riapparse anche ora che lo hai venduto? Ecco la risposta di Apple. \nLink all'articolo originale: Apple spiega perché le foto cancellate sono riapparse su iPhone",
+//             "url": "https://www.iphoneitalia.com/826419/apple-spiega-perche-le-foto-cancellate-sono-riapparse-su-iphone",
+//             "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/09/iPhone-15-Pro-Max-foto-gallery-7.jpeg",
+//             "publishedAt": "2024-05-24T06:03:55Z",
+//             "content": "All’inizio di questa settimana, Apple ha rilasciato iOS 17.5.1 per risolvere un grave problema per il quale le foto cancellate riapparivano sul dispositivo di un utente dopo aver installato iOS 17.5.… [+2973 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Olhardigital.com.br"
+//             },
+//             "author": "Tamires Ferreira",
+//             "title": "Nvidia aumenta valor de mercado e se aproxima da Apple",
+//             "description": "Empresa superou expectativas no último trimestre e teve salto de mais de 600% em lucro \nO post Nvidia aumenta valor de mercado e se aproxima da Apple  apareceu primeiro em Olhar Digital.",
+//             "url": "https://olhardigital.com.br/2024/05/23/pro/nvidia-aumenta-valor-de-mercado-e-se-aproxima-da-apple/",
+//             "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2024/05/nvidia-2.jpg",
+//             "publishedAt": "2024-05-24T02:35:00Z",
+//             "content": "Após divulgar resultados trimestrais impressionantes, as ações da Nvidia subiram mais de 9% nesta quinta-feira (23), adicionando US$ 218 bilhões em valor de mercado, de acordo com a LSEG. Conforme da… [+1666 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Biztoc.com"
+//             },
+//             "author": "bbc.com",
+//             "title": "Google to make Pixel phones and drones in India",
+//             "description": "Google to make Pixel phones and drones in India Tech giant Google will soon begin making its Pixel smartphones in India, sources aware of the development have told the BBC. Google is set to manufacture the phones at an existing Foxconn facility in the souther…",
+//             "url": "https://biztoc.com/x/b60f99edb1b14cea",
+//             "urlToImage": "https://c.biztoc.com/p/b60f99edb1b14cea/s.webp",
+//             "publishedAt": "2024-05-24T06:26:05Z",
+//             "content": "Google to make Pixel phones and drones in IndiaTech giant Google will soon begin making its Pixel smartphones in India, sources aware of the development have told the BBC. Google is set to manufactur… [+277 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "3dnews.ru"
+//             },
+//             "author": null,
+//             "title": "Apple планирует выпустить MacBook с гибким дисплеем в 2026 году",
+//             "description": "Компания Apple работает над созданием нового устройства с гибким дисплеем, предположительно речь идёт о MacBook. По данным авторитетного аналитика Мин-Чи Куо (Ming-Chi Kuo), производитель iPhone намерен поставить более 1 млн устройств с 20-дюймовым гибким дис…",
+//             "url": "https://3dnews.ru/1105334/apple-planiruet-vipustit-macbook-s-gibkim-displeem-v-2026-godu",
+//             "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/24/1105334/367.jpg",
+//             "publishedAt": "2024-05-24T04:32:00Z",
+//             "content": "Apple , MacBook. - (Ming-Chi Kuo), iPhone 1 20- 2026 . , Apple 2027 .\r\n, , , Apple 20- . 18,8 . 20- MacBook 14 15 . 18,8- , MacBook 13 14 .\r\n , Apple LG Display. , Apple M5, .\r\n, Apple . (Ross Young)… [+119 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Tinhte.vn"
+//             },
+//             "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+//             "title": "Kuo: Apple dự kiến ra mắt MacBook màn hình gập chạy chip M5",
+//             "description": "Tin đồn về chiếc MacBook Pro màn hình gập đã râm ran nhiều năm nay. Giờ đây, có vẻ như sản phẩm này đang tiến gần hơn đến hiện thực, với nhiều kích thước màn hình và có thể ra mắt sớm hơn dự kiến.\n \nhttps://tinhte.",
+//             "url": "https://tinhte.vn/thread/kuo-apple-du-kien-ra-mat-macbook-man-hinh-gap-chay-chip-m5.3790344/",
+//             "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/05/8343991_Cover-macbook-gap-tinhte-anhtu.jpg",
+//             "publishedAt": "2024-05-24T06:07:43Z",
+//             "content": "Các model màn hình gp này d kin s s dng chip Apple M5. Apple mun s dng tm nn không np gp, òi hi cht lng sn xut cao hn, c v tm nn và c ch bn l. iu này có th làm tng chi phí cho tm nn và bn l lên khong… [+541 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Tinhte.vn"
+//             },
+//             "author": "no-reply@tinhte.vn (ND Minh Đức), ND Minh Đức",
+//             "title": "Qualcomm X Elite: câu chuyện từ những kỹ sư muốn thay đổi ngành công nghiệp",
+//             "description": "Qualcomm X Elite đã chính thức xuất hiện trên một loạt những chiếc laptop đến từ các OEM quan thuộc như Dell, HP, Lenovo, ASUS, Acer,… kèm theo đó là Windows 11 ARM chính thức với những công nghệ mới nhất xoay quanh vai trò của AI…",
+//             "url": "https://tinhte.vn/thread/qualcomm-x-elite-cau-chuyen-tu-nhung-ky-su-muon-thay-doi-nganh-cong-nghiep.3790287/",
+//             "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/05/8343834_Snapdragon-X-Elite-Screen.jpg",
+//             "publishedAt": "2024-05-24T03:37:26Z",
+//             "content": "Mt ng sáng lp khác ca Nuvia và Manu Gulati cng tng là mt nhân viên ca Apple. Manu gia nhp Apple vào nm 2009 và là ngi lãnh o b phn thit k chip t A5X cho ti tn A12X. Ti nm 2017 thì Manu ri công ty, sa… [+10664 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Neowin"
+//             },
+//             "author": "Aditya Tiwari",
+//             "title": "Repeat iPad buyers don't sell their old iPads as often, says report",
+//             "description": "A new report suggests iPad owners are more likely to keep their old iPads when compared to iPhone owners. About two-thirds of iPad owners prefer to keep the device or give it to friends and family. Read more...",
+//             "url": "https://www.neowin.net/news/repeat-ipad-buyers-dont-sell-their-old-ipads-as-often-says-report/",
+//             "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/05/1716503342_apple_ipad_on_a_surface_story.jpg",
+//             "publishedAt": "2024-05-24T00:02:01Z",
+//             "content": "Source: Josh Sorenson/Pexels\r\nA report published by the analytics firm CIRP suggests new iPad owners keep their old iPads for a longer period. The firm collected data over twelve months ending in Mar… [+1772 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Neowin"
+//             },
+//             "author": "Sagar Naresh",
+//             "title": "Arc Search now lets you search for your query simply by mimicking a phone call",
+//             "description": "The Browser Company's Arc Search has added a new feature to its iOS app that lets you perform a web search in the browser by bringing your iPhone close to your ear and saying your query. Read more...",
+//             "url": "https://www.neowin.net/news/arc-search-now-lets-you-search-for-your-query-simply-by-mimicking-a-phone-call/",
+//             "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/05/1716527146_arc-search-call-arc-feature_story.jpg",
+//             "publishedAt": "2024-05-24T05:24:02Z",
+//             "content": "A new update has landed for The Browser Company's Arc Search for iPhones that brings an interesting \"Call Arc\" feature. Using this feature, Arc Search users can search for a query that mimics a phone… [+1944 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "3dnews.ru"
+//             },
+//             "author": null,
+//             "title": "Новый эмулятор Prism ускорит работу приложений x86 на ПК Copilot+ на базе Arm",
+//             "description": "Microsoft анонсировала масштабное обновление Windows 11 под кодовым названием 24H2, которое должно значительно улучшить производительность и совместимость приложений между архитектурами x86 и Arm. Источник изображения: Techspot.com",
+//             "url": "https://3dnews.ru/1105332/noviy-emulyator-prism-uskorit-rabotu-prilogeniy-x86-na-pk-copilot-na-baze-arm",
+//             "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/24/1105332/prism-emulator.jpg",
+//             "publishedAt": "2024-05-24T03:06:00Z",
+//             "content": "Microsoft Windows 11 24H2, x86 Arm.\r\n: Techspot.com\r\n— Prism, x86, Windows Arm- 10-20 % .\r\n Microsoft Windows Arm, . Prism , , x86 Arm-. Prism Rosetta 2 Apple, Intel Arm-, Techspot.\r\nWindows 11 24H2 … [+134 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Sspai.com"
+//             },
+//             "author": "少数派编辑部",
+//             "title": "派早报：微软向 Release Preview 发布 Windows 11 24H2 预览版等",
+//             "description": "你可能错过的新鲜事微软向ReleasePreview发布Windows1124H2预览版微软于5月22日面向ReleasePreview的WindowsInsider项目成员发布了Windows112 ...查看全文",
+//             "url": "https://sspai.com/post/89048",
+//             "urlToImage": "https://cdnfile.sspai.com/5/24/2024/article/1cf45575-e7fd-fde8-d428-ce77c0c0f0bc.png",
+//             "publishedAt": "2024-05-24T00:38:47Z",
+//             "content": "Release Preview Windows 11 24H2 \r\n 5 22 Release Preview Windows Insider Windows 11 24H2 Build 26100.712Windows 11 Version 24H2 HDR Sudo for WindowsWindows Rust Wi-Fi 7 7-zip TAR \r\n VBScript Windows 1… [+1113 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Tinhte.vn"
+//             },
+//             "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+//             "title": "Apple giải thích về lỗi hình cũ đột nhiên xuất hiện lại trong Photos dù đã xoá",
+//             "description": "Tuần trước, Apple đã phát hành iOS 17.5.1 để xử lý lỗi hiếm gặp khiến ảnh đã xóa hiển thị lại trên thiết bị sau khi nâng cấp lên iOS 17.5. Apple cho biết lỗi này do lỗi cơ sở dữ liệu và giờ họ đã xác nhận…",
+//             "url": "https://tinhte.vn/thread/apple-giai-thich-ve-loi-hinh-cu-dot-nhien-xuat-hien-lai-trong-photos-du-da-xoa.3790299/",
+//             "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/05/8343861_5944588-cover-su-dung-app-photos-tot-hon.jpg",
+//             "publishedAt": "2024-05-24T02:37:48Z",
+//             "content": "Trên Reddit, mt ngi dùng cho rng nh ca h ã xut hin li trên chic iPad ã bán cho bn (bài này xoá ri), mc dù h ã xóa d liu trên iPad ó trc khi bán. Apple khng nh iu này là sai s tht. Hãng cho bit sau kh… [+813 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Tinhte.vn"
+//             },
+//             "author": "no-reply@tinhte.vn (vn_ninja), vn_ninja",
+//             "title": "CIRP: Người dùng iPad thường giữ lại thiết bị cũ khi có máy mới",
+//             "description": "Khảo sát từ công ty nghiên cứu thị trường CIRP, thực hiện trong vòng 12 tháng kết thúc vào tháng 3 năm nay, cho thấy đa phần người dùng iPad sẽ giữ lại thiết bị cũ khi đã có máy mới. Cụ thể:\n\n31% người được khảo sát chọn giữ lại thiết bị cũ để cho…",
+//             "url": "https://tinhte.vn/thread/cirp-nguoi-dung-ipad-thuong-giu-lai-thiet-bi-cu-khi-co-may-moi.3790157/",
+//             "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/05/8343412_cover-iPad-Gen-9-tinhte.jpg",
+//             "publishedAt": "2024-05-24T02:05:48Z",
+//             "content": "Hành vi gi li iPad c, bao gm c gi li s dng và gi li cho ngi thân, chim n 67% ngi c kho sát. Con s tng t ca ngi dùng iPhone ch là 41% (30% gi li + 11% cho ngi thân). iu này cho thy nhng chic iPad c ho… [+750 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Taisy0.com"
+//             },
+//             "author": "taisy0",
+//             "title": "｢iOS 17.5.1｣で修正された数年前に削除した写真が復活するバグの要因が明らかに ｰ 売却済みのデバイスでも復活したという主張は誤り",
+//             "description": "先日、Appleは「iOS 17.5.1」と「iPadOS 17.5.1」をリリースし、「写真」アプリで数年前に削除した写真が復活するバグを修正したものの、数年前に削除したはずの写真がどのようにして復活するのか、モヤモヤが残ったままでしたが",
+//             "url": "https://taisy0.com/2024/05/24/198644.html",
+//             "urlToImage": "https://taisy0.com/wp-content/uploads/2023/05/th_icloud-photos.jpg",
+//             "publishedAt": "2024-05-24T03:40:57Z",
+//             "content": "AppleiOS 17.5.1iPadOS 17.5.19To5Mac\r\n2010Apple””iCloudiCloudAppleiCloud\r\niCloud\r\nNANDNAND\r\nApple\r\nApple"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Macitynet.it"
+//             },
+//             "author": "Mauro Notarianni",
+//             "title": "iFixit, Samsung come Apple non vuole telefoni riparabili",
+//             "description": "iFixit spara contro Samsung che cancella un accordo per la fornitura di componenti di ricambio. «Non gli interessa la riparabilità dei suoi dispositivi da parte di terzi». Proprio come Apple...\n- su macitynet.it iFixit, Samsung come Apple non vuole telefoni r…",
+//             "url": "https://www.macitynet.it/ifixit-ha-rotto-i-rapporti-con-samsung/",
+//             "urlToImage": "https://www.macitynet.it/wp-content/uploads/2022/04/riparazines21.jpg",
+//             "publishedAt": "2024-05-24T06:29:41Z",
+//             "content": "Samsung ed Apple sono la stessa cosa. Almeno per quel che riguarda la riparabilità dei telefoni. Almeno secondo iFixit. L’attacco all’indirizzo della casa coreana, dopo avere per anni criticato quell… [+2168 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Hwupgrade.it"
+//             },
+//             "author": null,
+//             "title": "Scende a 979 MacBook Air 2022 con chip M2! Ma non è l'unico: ecco tutte le altre 20 offerte (2 costano 400 in meno)",
+//             "description": "Risulta veramente vantaggioso acquistare alcuni prodotti Apple su Amazon: ci si porta a casa lo stesso identico prodotto e si spende meno rispetto allo store Apple! Ecco le nuove offerte sui portatili della Mela.",
+//             "url": "https://www.hwupgrade.it/news/apple/scende-a-979-macbook-air-2022-con-chip-m2-ma-non-e-l-unico-ecco-tutte-le-altre-20-offerte-2-costano-400-in-meno_127425.html",
+//             "urlToImage": "https://www.hwupgrade.it/i/n/Euro_monete_incentivi_720.jpg",
+//             "publishedAt": "2024-05-24T05:53:33Z",
+//             "content": "Ci sono molte offerte Apple su Amazon, tra l'altro venduti e spediti da Amazon stessa (nessuna brutta sorpresa, servizio clienti al top). Oggi sono scesi ulteriorimente alcuni portatili della famigli… [+1362 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Unwire.hk"
+//             },
+//             "author": "唐美鳳",
+//             "title": "繼歐盟後再度退讓 Apple 將向日本開放 App Store",
+//             "description": "在歐盟立法迫使 Apple 容許第三方應用程式商店在 27 個成員國營運後，日本亦計劃引入類似的法律要求。日本國會目前正就反壟斷立法進行辯論，預計將於 6 月底前獲得通過。根據《日本時報》的報導，相關法案一旦獲得國會通過，將會適用於 Apple 和 Google。\nThe post 繼歐盟後再度退讓 Apple 將向日本開放 App Store appeared first on 香港 unwire.hk 玩生活．樂科技.",
+//             "url": "https://unwire.hk/2024/05/24/apple-may-soon-have-to-allow-third-party-app-stores-in-japan-too/fun-tech/",
+//             "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/05/04-4-13-694x390.jpg",
+//             "publishedAt": "2024-05-24T04:00:01Z",
+//             "content": "Apple 27 6 Apple Google\r\n Apple Google 6 \r\n Apple iOS Apple iPhone App Store \r\n9to5mac\r\n:<li>iPad Pro M4     Apple Pencil Pro </li> <li>Apple </li> <li>Apple 4 iPhone iOS 17.5 </li> \r\n :"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Expansion.com"
+//             },
+//             "author": "expansion.com",
+//             "title": "La Primera de Expansión sobre Aramco, Repsol, Applus, Larry Fink y Cristiano Ronaldo",
+//             "description": "El podcast de este viernes les habla también de las reunión que mantuvo ayer en Madrid Larry Fink y del nuevo giro que se ha producido en el proceso de opas sobre Applus.",
+//             "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2024/05/24/66502223468aebda278b45c5.html",
+//             "urlToImage": "https://phantom-expansion.unidadeditorial.es/e809a7acbfc9cacfb19ffb437693ae2f/f/webp/assets/multimedia/imagenes/2024/05/24/17165292456633.jpg",
+//             "publishedAt": "2024-05-24T05:31:29Z",
+//             "content": "La Primera de Expansión les cuenta hoy que Aramco está interesada en entrar en el capital de Repsol Renovables. El podcast de este viernes les habla también de las reunión que mantuvo ayer en Madrid … [+624 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "iphone-ticker.de › iPhone-News seit 2007"
+//             },
+//             "author": "Nicolas",
+//             "title": "Apple äußert sich zu iOS 17.5.1: Foto-Problem sehr selten",
+//             "description": "Apple hat die Betriebssystem-Aktualisierung auf iOS 17.5.1 am Montag ausgegeben, um ein Problem zu beheben, dass bei zahlreichen Anwendern nach der Installation von iOS 17.5 aufgetreten war: Plötzlich tauchten in der persönlichen Fotomediathek Bilder auf, die…",
+//             "url": "https://www.iphone-ticker.de/apple-aeussert-sich-zu-ios-17-5-1-foto-problem-sehr-selten-235213/",
+//             "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2021/10/ios-fotos-personen-feature.jpg",
+//             "publishedAt": "2024-05-24T05:59:34Z",
+//             "content": "Apple hat die Betriebssystem-Aktualisierung auf iOS 17.5.1 am Montag ausgegeben, um ein Problem zu beheben, dass bei zahlreichen Anwendern nach der Installation von iOS 17.5 aufgetreten war: Plötzlic… [+1759 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Hvg.hu"
+//             },
+//             "author": "hvg@hvg.hu",
+//             "title": "Erősebb, gyorsabb, halkabb, de szerethetőbb? Teszten a legújabb Toyota Yaris Cross",
+//             "description": "A bestseller japán kompakt crossover külseje mit sem változott, a műszerfal azonban modernebb lett, tovább okosították a vezetéstámogató rendszert és egy új 130 lóerős hibrid hajtás is feltűnt a színen. Kipróbáltuk az elődjénél halkabb és már-már pofátlanul k…",
+//             "url": "https://hvg.hu/cegauto/20240524_erosebb-gyorsabb-halkabb-szerethetobb-legujabb-toyota-yaris-cross-teszt-velemeny",
+//             "urlToImage": "https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/560acb19-19b3-4278-988d-a7879c3d6517.jpg",
+//             "publishedAt": "2024-05-24T05:21:00Z",
+//             "content": "2019-ben nagyot szólt, amikor a Toyota bemutatta a vadonatúj Yaris-t, ami villámgyorsan be is seperte magának az Év Autója díjat, és amely egy évvel késbb a széria több évtizedes történetében els alk… [+9092 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Xatakahome.com"
+//             },
+//             "author": "Paco Rodriguez",
+//             "title": "Descuentos de fin de temporada en Smart TV, barras de sonido, hogar inteligente, complementos para terrazas y más: Cazando gangas",
+//             "description": "Ha llegado el viernes, el mejor día de la semana para repasar los descuentos en televisores inteligentes, equipos y barras de sonido, dispositivos para el hogar conectado y más. Comienza nuestro Cazando gangas:\n<!-- BREAK 1 -->\nTelevisores, proyectores, multi…",
+//             "url": "https://www.xatakahome.com/seleccion/descuentos-fin-temporada-smart-tv-barras-sonido-hogar-inteligente-complementos-para-terrazas-cazando-gangas",
+//             "urlToImage": "https://i.blogs.es/4d9f7b/imagengangas/840_560.jpeg",
+//             "publishedAt": "2024-05-24T06:09:35Z",
+//             "content": "Ha llegado el viernes, el mejor día de la semana para repasar los descuentos en televisores inteligentes, equipos y barras de sonido, dispositivos para el hogar conectado y más. Comienza nuestro Caza… [+13739 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Tweakers.net"
+//             },
+//             "author": "Friso Weijers",
+//             "title": "Apple iPad Pro (2024) en iPad Air (2024) - Ultralicht of zwaargewicht",
+//             "description": "Apple brengt twee nieuwe iPads uit. De iPad Pro is dunner dan ooit en heeft een dubbellaagsoledscherm, de iPad Air verschijnt voor het eerst in twee formaten.",
+//             "url": "https://tweakers.net/reviews/12098/apple-ipad-pro-2024-en-ipad-air-2024-ultralicht-of-zwaargewicht.html",
+//             "urlToImage": "https://tweakers.net/i/rziIWOMwSru_L3E8psFbhoTMnmE=/300x150/filters:strip_icc():strip_exif()/i/2006716304.jpeg?f=thumbs_fpa_small",
+//             "publishedAt": "2024-05-24T04:00:00Z",
+//             "content": "<ul><li>Apple iPad Pro (2024)</li><li>Apple iPad Air (2024)</li></ul>\r\nDe iPad Pro heeft misschien niet de potentie van een product als de Vision Pro of de rauwe rekenkracht van de krachtigste Macs, … [+2850 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Lupa.cz"
+//             },
+//             "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+//             "title": "Nová éra osobních počítačů a problém pro Intel, z WinAmpu je open source, TSMC umí vypnout stroje na dálku",
+//             "description": "Další rekord Nvidie. Slibný čipový dodavatel z Brna. IGN kupuje několik herních webů. Vážná zranitelnost ve Firefoxu. Zprávy z IT, každý pátek na Lupě.",
+//             "url": "https://www.lupa.cz/clanky/nova-era-osobnich-pocitacu-a-problem-pro-intel-z-winampu-je-open-source-tsmc-umi-vypnout-stroje-na-dalku/",
+//             "urlToImage": "https://i.iinfo.cz/images/208/microsoft-surface_watermark-lupa-cz.webp",
+//             "publishedAt": "2024-05-24T04:30:00Z",
+//             "content": "Vdy v pátek pipravuje reportér Jan Sedlák výbr zajímavých zpráv ze svta IT. Co se událo v tomto týdnu?\r\nesko by mohlo mít dalího zajímavého zástupce v ipovém dodavatelském etzci. Brnnská firma Plasma… [+5344 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Paul Tan's Automotive News"
+//             },
+//             "author": "Izwaashura Sadali",
+//             "title": "GWM Tank 300 dibuka tempahan di Malaysia – harga jangkaan RM250k, SUV off road mula dihantar Julai ini",
+//             "description": "Great Wall Motor Malaysia mengumumkan bahawa tempahan bagi Tank 300 sudah mula dibuka, dan SUV off-road ini dijangka akan dilancarkan di pasaran tempatan tidak lama lagi. Syarikat tersebut juga berkata penghantarannya akan bermula Julai ini. Tank 300 akan mem…",
+//             "url": "https://paultan.org/2024/05/24/gwm-tank-300-dibuka-tempahan-di-malaysia-harga-jangkaan-rm250k-suv-off-road-mula-dihantar-julai-ini/",
+//             "urlToImage": "https://paultan.org/image/2024/05/2024-MAS_GWM-Tank-300-4WD_Ext-1-BM-1200x800.jpg",
+//             "publishedAt": "2024-05-24T02:14:32Z",
+//             "content": "Great Wall Motor Malaysia mengumumkan bahawa tempahan bagi Tank 300 sudah mula dibuka, dan SUV off-road ini dijangka akan dilancarkan di pasaran tempatan tidak lama lagi. Syarikat tersebut juga berka… [+2059 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Www.nzz.ch"
+//             },
+//             "author": "Antonia Moser (ata), Alice Grosjean (jea)",
+//             "title": "PODCAST - ICC-Haftbefehl: Warum sich sogar die Opposition mit Netanyahu solidarisch zeigt",
+//             "description": "Die Vorwürfe sind heftig: Israel soll unter der Führung von Benjamin Netanyahu absichtlich in Gaza Zivilisten angreifen und ihnen überlebenswichtige Güter vorenthalten lassen. Doch nicht nur diese Anschuldigungen stossen in Israel auf Unverständnis.",
+//             "url": "https://www.nzz.ch/podcast/icc-haftbefehl-gegen-netanyahu-israel-ist-empoert-nzz-akzent-ld.1831611",
+//             "urlToImage": "https://img.nzz.ch/2024/05/23/6f1fce87-b74c-495b-a496-ebbc5dc58e4e.jpeg?width=1200&height=674&fit=bound&quality=75&auto=webp&crop=3828,2151,x0,y201&wmark=nzz",
+//             "publishedAt": "2024-05-24T03:30:00Z",
+//             "content": "Hören und abonnieren Sie den Podcast «NZZ Akzent» auch auf Spotify,Apple Podcasts oder Castbox.\r\nHaben Sie ein Feedback zum Podcast? Sagen Sie uns Ihre Meinung.\r\nIn dieser Podcast-Episode:\r\nDer israe… [+1373 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "ifun.de › Apple-News seit 2001"
+//             },
+//             "author": "Nicolas",
+//             "title": "WWDC 2024: Apple startet neue Diskussionsforen",
+//             "description": "In Vorbereitung auf die WWDC-Entwicklerkonferenz 2024, von deren Auftaktveranstaltung wir nur noch 16 Tage entfernt sind, hat Apple jetzt einen neu gestalteten Forenbereich für Entwickler und technisch interessierte Nutzer vorgestellt. Rechtzeitig zur WWDC24 …",
+//             "url": "https://www.ifun.de/wwdc-2024-apple-startet-neue-diskussionsforen-233057/",
+//             "urlToImage": "https://images.ifun.de/wp-content/uploads/2024/05/apple-entwickler-foren.jpg",
+//             "publishedAt": "2024-05-24T06:29:05Z",
+//             "content": "In Vorbereitung auf die WWDC-Entwicklerkonferenz 2024, von deren Auftaktveranstaltung wir nur noch 16 Tage entfernt sind, hat Apple jetzt einen neu gestalteten Forenbereich für Entwickler und technis… [+1729 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "ifun.de › Apple-News seit 2001"
+//             },
+//             "author": "Nicolas",
+//             "title": "macOS 15: Systemeinstellungen vor umfassender Umgestaltung",
+//             "description": "Apple soll vorhaben, umfangreiche Änderungen an den Systemeinstellungen von macOS 15 vorzunehmen und steht vor der bislang größten Umstrukturierung des Konfigurationsbereiches, der erst mit der Ausgabe von macOS 13 im Oktober 2022 komplett neu aufgebaut wurde…",
+//             "url": "https://www.ifun.de/macos-15-systemeinstellungen-vor-umfassender-umgestaltung-233048/",
+//             "urlToImage": "https://images.ifun.de/wp-content/uploads/2022/06/systemeinstellungen-macos-13.jpg",
+//             "publishedAt": "2024-05-24T05:27:40Z",
+//             "content": "Apple soll vorhaben, umfangreiche Änderungen an den Systemeinstellungen von macOS 15 vorzunehmen und steht vor der bislang größten Umstrukturierung des Konfigurationsbereiches, der erst mit der Ausga… [+1801 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Technews.tw"
+//             },
+//             "author": "邱 倢芯",
+//             "title": "螢幕縮到 18.8 吋？郭明錤：蘋果摺疊產品目標是無摺痕",
+//             "description": "蘋果首款摺疊產品究竟是 iPhone、iPad，還是 MacBook？ 據天風國際分析師郭明錤最新的調查報告顯示，蘋果首款摺疊產品可能為摺疊 MacBook，處理器可能將採 M5 系列晶片。 至於在摺疊產品最重要的螢幕方面，郭明錤表示，LGD 搶下了獨家供應商；而除了先前傳出的 20.25 吋外，蘋...",
+//             "url": "https://technews.tw/2024/05/24/apple-foldable-macbook-with-18-8-display/",
+//             "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/03/04213524/Apple-MacBook-Air-2-up-hero-240304.jpeg",
+//             "publishedAt": "2024-05-24T02:33:34Z",
+//             "content": "iPhoneiPad MacBook\r\n MacBook M5 \r\nLGD 20.25 18.8 14~15 13~14 \r\nApple – MacBook / Apples first foldable product – the full-screen foldable MacBook survey updatehttps://t.co/LT8iKYDH7X\r\n (Ming-Chi Kuo)… [+182 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Timharford.com"
+//             },
+//             "author": "Tim Harford",
+//             "title": "Cautionary Tales – When the robots take over… Cautionary Questions",
+//             "description": "Tim Harford is joined by Jacob Goldstein to answer your questions. Does winning the lottery make you unhappy? Is Bitcoin bad for the economy? When does correlation imply causation? And what will Tim and Jacob do when the robot overlords come for their jobs? […",
+//             "url": "https://timharford.com/2024/05/cautionary-tales-when-the-robots-take-over-cautionary-questions/",
+//             "urlToImage": "https://timharford.com/wp-content/uploads/2021/04/cropped-favicon.png",
+//             "publishedAt": "2024-05-24T05:05:00Z",
+//             "content": "Tim Harford is joined by Jacob Goldstein to answer your questions. Does winning the lottery make you unhappy? Is Bitcoin bad for the economy? When does correlation imply causation? And what will Tim … [+87 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Ixbt.com"
+//             },
+//             "author": "jin@ixbt.com (Jin)",
+//             "title": "Apple поняла, как на новых iPhone «воскресли» фотографии, сделанные до 2010 года",
+//             "description": "Apple в срочном порядке выпустила официальное обновление версии iOS 17.5.1, исправляющее ошибку «повторного появления удаленных фотографий». В Apple заявили, что «воскресшие» фотографии — это в основном фотографии пользователей, сделанные до 2010 года. Эта пр…",
+//             "url": "https://www.ixbt.com/news/2024/05/24/apple-iphone-2010.html",
+//             "urlToImage": "https://www.ixbt.com/img/n1/news/2024/4/5/photo_2024-05-24_07-59-01_large.jpg",
+//             "publishedAt": "2024-05-24T05:00:00Z",
+//             "content": "Apple iOS 17.5.1, « ».\r\n Apple , «» — , 2010 . , Apple, iCloud, .\r\n Apple , , , iCloud Photos, .\r\n , iCloud iCloud.\r\n Apple , iCloud, Apple , .\r\n, Apple iOS 17.5 , - , , ."
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Nextpit.com"
+//             },
+//             "author": "Jade Bryan",
+//             "title": "MacBook Fold: Apple's First Foldable Could Cost a Fortune",
+//             "description": "Apple's first foldable device is rumored to feature an all-screen design with a MacBook form factor. However, it could also cost as much as the Vision Pro.",
+//             "url": "https://www.nextpit.com/apple-macbook-fold-ipad-hybrid-price-how-much-display-leak",
+//             "urlToImage": "https://fscl01.fonpit.de/userfiles/7695213/image/asus-zenbook-17-fold-oled/Asus-Zenbook-17-Fold-OLED--4.jpg",
+//             "publishedAt": "2024-05-24T03:03:38Z",
+//             "content": "Firstly, Ming-Chi Kuo published on Medium his latest forecasts about the foldable MacBook. It has highlighted that Apple is planning to pick a 20.2-inch main flexible screen, but it also says that th… [+1729 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Smzdm.com"
+//             },
+//             "author": null,
+//             "title": "百亿补贴：Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 2248元",
+//             "description": "百亿补贴:Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 2248元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+//             "url": "https://www.smzdm.com/p/113616826/",
+//             "urlToImage": "https://qny.smzdm.com/202405/24/664fe4a1651ae7833.jpg_d250.jpg",
+//             "publishedAt": "2024-05-24T01:41:28Z",
+//             "content": "Apple Watch Series 9 Apple S9 56Series 8 60%GPU30%siriAppleiPhone\r\nApple Watch Series 9200013256G\r\nApple Watch Series 9 3618"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Smzdm.com"
+//             },
+//             "author": null,
+//             "title": "Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 2279元",
+//             "description": "Apple 苹果 Watch Series 9 智能手表 GPS款 45mm 2279元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+//             "url": "https://www.smzdm.com/p/113646204/",
+//             "urlToImage": "https://y.zdmimg.com/202405/24/66501f1141a8f6321.jpg_d250.jpg",
+//             "publishedAt": "2024-05-24T05:25:58Z",
+//             "content": "Apple Watch Series 9 Apple S9 56Series 8 60%GPU30%siriAppleiPhone\r\nApple Watch Series 9200013256G\r\nApple Watch Series 9 3618"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Smzdm.com"
+//             },
+//             "author": null,
+//             "title": "Apple 苹果 Watch Series 9 智能手表GPS款45毫米午夜色铝金属表壳 午夜M/L 2599元（需用券）",
+//             "description": "京东自营此款目前活动售价3199.00元，下单，下单1件，实付低至2599.00元，近期好价。23年8月23日前开通的PLUS会员，自开通起一年内还可叠加50元全品类券（PLUS会员中心），单件低至2549.00元。叠加优惠券...",
+//             "url": "https://www.smzdm.com/p/113621986/",
+//             "urlToImage": "https://qny.smzdm.com/202309/14/650267e8a310d4654.jpg_d250.jpg",
+//             "publishedAt": "2024-05-24T04:24:49Z",
+//             "content": "Apple Watch Series 9 Apple S9 56Series 8 60%GPU30%siriAppleiPhone\r\nApple Watch Series 9200013256G\r\nApple Watch Series 9 3618"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Smzdm.com"
+//             },
+//             "author": null,
+//             "title": "百亿补贴：Apple 苹果 iPhone 15 Pro 5G手机 128GB 5795元（需用券）",
+//             "description": "拼多多百亿补贴到手5795元",
+//             "url": "https://www.smzdm.com/p/113616304/",
+//             "urlToImage": "https://y.zdmimg.com/202309/13/6500b104b5a4f4674.png_d250.jpg",
+//             "publishedAt": "2024-05-24T02:10:44Z",
+//             "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Www.dn.se"
+//             },
+//             "author": "TT",
+//             "title": "AI-racet: ”Sverige verkar ha halkat efter”",
+//             "description": "Det blev kraftiga kurslyft i AI-sektorn efter branschbjässen Nvidias senaste rapport. Men i Stockholm var reaktionen knappt mätbar. ”Om man ser på AI-driven datatrafik verkar det som att Sverige – hela Europa – har halkat efter”, enligt Johan Nilke, fondförva…",
+//             "url": "https://www.dn.se/ekonomi/ai-racet-sverige-verkar-ha-halkat-efter/",
+//             "urlToImage": "https://static.bonniernews.se/gcs/bilder/dn-mly/f93c183e-f612-4785-b8e0-13f00d99de7f.jpeg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80",
+//             "publishedAt": "2024-05-24T06:29:44Z",
+//             "content": "Det behöver inte betyda att vi (Sverige) är förlorare. Se på Apple. De brukar sällan vara först, utan satsar på att vara bäst i stället, skriver Johan Nilke i en kommentar till TT.\r\nNilkes jobb på La… [+1540 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "mobiFlip.de"
+//             },
+//             "author": "Oliver Schwuchow",
+//             "title": "Apple App Store: Entwickler der Alternativen sind unzufrieden",
+//             "description": "Die EU wollte mit dem Digital Markets Act einige Dinge bei den ganz großen Tech-Unternehmen regulieren, eine Idee ist zum Beispiel, dass es Alternativen für die großen Stores gibt. Der […]",
+//             "url": "https://www.mobiflip.de/shortnews/apple-app-store-entwickler-der-alternativen-sind-unzufrieden/",
+//             "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2022/11/apple-app-store-icon-header.jpg",
+//             "publishedAt": "2024-05-24T05:12:02Z",
+//             "content": "Die EU wollte mit dem Digital Markets Act einige Dinge bei den ganz großen Tech-Unternehmen regulieren, eine Idee ist zum Beispiel, dass es Alternativen für die großen Stores gibt. Der Apple App Stor… [+1872 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "mobiFlip.de"
+//             },
+//             "author": "Oliver Schwuchow",
+//             "title": "Apple MacBook mit M5 und faltbarem OLED-Display für 2026 geplant",
+//             "description": "Apple hat sich bisher aus der Kategorie der Foldables herausgehalten und hat es beim iPhone vermutlich nicht eilig. Es soll zwar gegen 2026 ein Foldable kommen, aber das ist voraussichtlich […]",
+//             "url": "https://www.mobiflip.de/shortnews/apple-macbook-mit-m5-und-faltbarem-oled-display-fuer-2026-geplant/",
+//             "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2021/11/apple-macbook-pro-2021-header.jpg",
+//             "publishedAt": "2024-05-24T03:46:53Z",
+//             "content": "Apple hat sich bisher aus der Kategorie der Foldables herausgehalten und hat es beim iPhone vermutlich nicht eilig. Es soll zwar gegen 2026 ein Foldable kommen, aber das ist voraussichtlich ein MacBo… [+972 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Maclife.de"
+//             },
+//             "author": "Lars Ulrich",
+//             "title": "macOS 15: Systemeinstellungen sollen stark überarbeitet werden",
+//             "description": "Die Systemeinstellungen sollen in macOS 15 neu gestaltet werden, wie aus einem neuen Bericht hervorgeht. Zuletzt ist das in macOS Ventura geschehen – was aber vor allem Power-User nicht unbedingt gelungen fanden. (Weiterlesen)",
+//             "url": "https://www.maclife.de/news/macos-15-systemeinstellungen-sollen-stark-ueberarbeitet-werden-100123966.html",
+//             "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2024_21/image-123966--4611831.jpg?itok=n_fgBrQQ",
+//             "publishedAt": "2024-05-24T06:01:42Z",
+//             "content": "Wie aus einem Bericht von Apple Insider hervorgeht, soll sich Apple im kommenden macOS 15 den Systemeinstellungen zuwenden. Es gehe weniger um die Einstellungen an sich als viel mehr um das Programm,… [+1414 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "The Boston Globe"
+//             },
+//             "author": "David McCabe, Ben Sisario",
+//             "title": "US calls for breakup of Ticketmaster owner",
+//             "description": "The Justice Department on Thursday sued Live Nation Entertainment, the concert giant that owns Ticketmaster, asking a court to break up the company over claims it illegally maintained a monopoly in the live entertainment industry.",
+//             "url": "https://www.bostonglobe.com/2024/05/24/business/us-calls-breakup-ticketmaster-owner/",
+//             "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/nX7k9Z1z-92KJ46bum769q4VjUQ=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/4SWICAESGZECW2OHPGCGDLN32U.jpg",
+//             "publishedAt": "2024-05-24T05:05:57Z",
+//             "content": "It is time for fans and artists to stop paying the price for Live Nations monopoly, Attorney General Merrick Garland said Thursday. It is time to break up Live Nation-Ticketmaster. The American peopl… [+8265 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Ferra.ru"
+//             },
+//             "author": "Максим Многословный",
+//             "title": "ChatGPT ИИ-ассистент закрепился на Mac, включая интеграцию с «горячими клавишами»",
+//             "description": "Официальное приложение ChatGPT привнес ИИ-ассистента на рабочий стол Mac. Помимо интерфейса, он отличается наличием горячих клавиш, в том числе Option + Space для мгновенного доступа. Но это далеко не все, на что он способен.",
+//             "url": "https://www.ferra.ru/news/apps/chatgpt-ii-assistent-zakrepilsya-na-mac-vklyuchaya-integraciyu-s-goryachimi-klavishami-24-05-2024.htm",
+//             "urlToImage": "https://www.ferra.ru/imgs/2024/05/24/05/6478204/a23aa0f58628a27a15d79b8e4672469f88eeb4ee.jpeg",
+//             "publishedAt": "2024-05-24T05:23:16Z",
+//             "content": ".   iOS, ChatGPT  Mac   Apple Shortcuts.   ChatGPT   , .\r\n : « ChatGPT»  «  ChatGPT». ,   ,  «». , , .\r\n (, Control + Space)     ,    ChatGPT   , . , ChatGPT   -   .\r\n   ,   ChatGPT    Shortcuts, «» ."
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Www.abc.es"
+//             },
+//             "author": "(abc)",
+//             "title": "Vox busca mediar en la ultraderecha europea, y otros temas del día",
+//             "description": "Código Desktop Imagen para móvil, amp y app Código móvil Código AMP Código APP VOX es consciente de la importancia que cogen sus señas políticas en Europa de cara a las elecciones europeas. Los de Abascal quieren jugar un papel clave en la unión de los grupos…",
+//             "url": "https://www.abc.es/voz/noticias-del-dia/vox-busca-mediar-ultraderecha-europea-temas-dia-20240524060000-nt.html",
+//             "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/voz/2024/05/24/boletin_758x531-U80030856277PVZ-1024x512@diario_abc.jpg",
+//             "publishedAt": "2024-05-24T04:00:03Z",
+//             "content": "VOX es consciente de la importancia que cogen sus señas políticas en Europa de cara a las elecciones europeas. Los de Abascal quieren jugar un papel clave en la unión de los grupos de derecha radical… [+865 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Digitimes"
+//             },
+//             "author": "DIGITIMES",
+//             "title": "Indonesia's smartphone market surges, Transsion gains ground, Apple dominates premium segment",
+//             "description": "Indonesia's smartphone market is on an upward trajectory, with Transsion capturing significant market share and Apple leading in the high-end segment.",
+//             "url": "https://www.digitimes.com/news/a20240523PD212/indonesia-iphone-mobile-phone-transsion.html",
+//             "urlToImage": "https://img.digitimes.com/newsshow/20240523pd212_files/2_b.jpg",
+//             "publishedAt": "2024-05-24T05:50:52Z",
+//             "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Japan Today"
+//             },
+//             "author": null,
+//             "title": "Judge weighs proposed changes to Google's Android app store to prevent anticompetitive tactics",
+//             "description": "Google is tried to confront the latest in a succession of legal attacks on its digital empire on Thursday as federal judge began to address anticompetitive practices in the app market for smartphones powered by its Android software. The San Francisco court he…",
+//             "url": "https://japantoday.com/category/tech/judge-weighs-proposed-changes-to-google%27s-android-app-store-to-prevent-anticompetitive-tactics",
+//             "urlToImage": null,
+//             "publishedAt": "2024-05-24T03:26:37Z",
+//             "content": "Google is tried to confront the latest in a succession of legal attacks on its digital empire on Thursday as federal judge began to address anticompetitive practices in the app market for smartphones… [+5237 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Soydemac.com"
+//             },
+//             "author": "Andy Acosta",
+//             "title": "Quiero cambiar de móvil, ¿cuánto me dan por mi iPhone antiguo?",
+//             "description": "En el caso que quiero cambiar de móvil, ¿cuánto me dan por mi iPhone antiguo? Podrás responderlo con la magnífica herramienta que hoy te mostramos",
+//             "url": "https://www.soydemac.com/cuanto-me-dan-por-mi-iphone/",
+//             "urlToImage": "https://www.soydemac.com/wp-content/uploads/2024/05/apple-trade-in-iphone-15-d.jpg",
+//             "publishedAt": "2024-05-24T03:13:25Z",
+//             "content": "Cada lanzamiento de Apple es una verdadera revolución y hace que todos los fanáticos se alisten para comprar lo nuevo. Esto sucede con todos sus productos ya sean sus AirPods, Apple Watches, iPads o … [+6274 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Computersweden.se"
+//             },
+//             "author": "Viktor Eriksson",
+//             "title": "Forskare: Apples system för wifi-positionering kan övervaka människor i hela världen",
+//             "description": "En ny studie från forskare vid University of Maryland visar att Apples Wi-Fi Position System (WPS) kan användas för massövervakning. Det hela uppmärksammades först av The Register. \r\n\n\n\n\nGenom att skicka BSSIDs ( Basic Service Set Identifiers) till Apples WPS…",
+//             "url": "https://computersweden.se/article/2121533/forskare-apples-system-for-wifi-positionering-kan-overvaka-manniskor-i-hela-varlden.html",
+//             "urlToImage": "https://computersweden.se/wp-content/uploads/2024/05/laurenz-heymann-wAygsCk20h8-unsplash.jpg?quality=50&strip=all&w=1024",
+//             "publishedAt": "2024-05-24T04:15:00Z",
+//             "content": "En ny studie från forskare vid University of Maryland visar att Apples Wi-Fi Position System (WPS) kan användas för massövervakning. Det hela uppmärksammades först av The Register. \r\nGenom att skicka… [+487 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Thesocialmediahat.com"
+//             },
+//             "author": "Mike Allton",
+//             "title": "Essential AI Tools and Technologies for Marketers",
+//             "description": "Episode 3 of the AI in Marketing: Unpacked podcast, with Mike Allton\nThe post Essential AI Tools and Technologies for Marketers appeared first on The Social Media Hat.",
+//             "url": "https://www.thesocialmediahat.com/blog/essential-ai-tools-and-technologies-for-marketers/",
+//             "urlToImage": "https://www.thesocialmediahat.com/wp-content/uploads/2024/05/Mike-Allton-ep-3-AI-in-Marketing-Unpacked-landscape.png",
+//             "publishedAt": "2024-05-24T00:59:52Z",
+//             "content": "Reading Time: 5minutesIn this episode of the AI in Marketing: Unpacked podcast, its the third of a 4-part series designed to help you quickly get up to speed on key concepts and ideas as it relates t… [+8407 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Newsshooter"
+//             },
+//             "author": "Matthew Allard ACS",
+//             "title": "SmallRig X Caleb Pike VB212 mini V Mount Battery Review",
+//             "description": "Back in April at NAB, SmallRig announced a new collaboration product, the SmallRig X Caleb Pike VB212 mini V Mount Battery. The SmallRig X Caleb Pike VB212 Mini V Mount Battery is as its name suggests, is a mini V mount battery that features fast charging cap…",
+//             "url": "https://www.newsshooter.com/2024/05/23/smallrig-x-caleb-pike-vb212-mini-v-mount-battery-review/",
+//             "urlToImage": "https://www.newsshooter.com/wp-content/uploads/2024/05/SmallRig-VB212_6748-1.jpeg",
+//             "publishedAt": "2024-05-24T01:01:09Z",
+//             "content": "Back in April at NAB, SmallRig announced a new collaboration product, the SmallRig X Caleb Pike VB212 mini V Mount Battery.\r\nThe SmallRig X Caleb Pike VB212 Mini V Mount Battery is as its name sugges… [+11526 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Idnes.cz"
+//             },
+//             "author": "Adam Novák",
+//             "title": "V USA je to samý iPhone. Nabídka mobilů je mnohem menší než v Evropě",
+//             "description": "V prvním čtvrtletí letošního roku měly iPhony na trhu ve Spojených státech více než poloviční tržní podíl. Samsung spolu s čínskou Motorolou ale získávají zbytek trhu. Celkově na tamním trhu prodej smartphonů meziročně poklesl.",
+//             "url": "https://www.idnes.cz/mobil/tech-trendy/prodeje-smartphonu-usa-1q-2024-podil-na-trhu.A240511_052213_mob_tech_ada",
+//             "urlToImage": "https://1gr.cz/tempimg/fb/2024/3/JM8a050cc2e7_profimedia_0580389959.jpg",
+//             "publishedAt": "2024-05-24T05:02:00Z",
+//             "content": "Podle analytické spolenosti Counterpoint si Apple udrel v prvním tvrtletí letoního roku na trhu ve Spojených státech více ne poloviní podíl. Konkrétn drel 52 procent trhu, stejn jako za stejnou dobu … [+1481 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Overclockers.ru"
+//             },
+//             "author": "ddr22",
+//             "title": "Некоторые ноутбуки с Snapdragon X Elite могут сравниться или даже превзойти M4 от Apple",
+//             "description": "Некоторые чипсеты Snapdragon X Elite, используемые в ноутбуках, могут превзойти по многоядерной производительности M4 от Apple, согласно данным, опубликованным на Geekbench 6",
+//             "url": "https://overclockers.ru/blog/ddr77/show/159597/Nekotorye-noutbuki-s-Snapdragon-X-Elite-mogut-sravnit-sya-ili-dazhe-prevzojti-M4-ot-Apple",
+//             "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/519544_O.png",
+//             "publishedAt": "2024-05-24T00:17:08Z",
+//             "content": "Geekbench 6 , , Snapdragon X Elite, Apple M4. M4 , , Snapdragon X Elite .\r\nM4 10- . 4000 Geekbench 6, . , Windows 11 Snapdragon X Elite M4 .\r\n, Qualcomm Snapdragon X Elite Geekbench 6, M4. , Snapdrag… [+78 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Overclockers.ru"
+//             },
+//             "author": "ddr22",
+//             "title": "Huawei доминирует на рынке складных смартфонов",
+//             "description": "257-процентный рост рынка складных смартфонов Huawei в первом квартале 2024 года может заставить Apple еще больше опасаться за свой первый выпуск",
+//             "url": "https://overclockers.ru/blog/ddr77/show/159603/Huawei-dominiruet-na-rynke-skladnyh-smartfonov",
+//             "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/519558_O.png",
+//             "publishedAt": "2024-05-24T01:17:08Z",
+//             "content": "2024 Huawei , 257 . , , Samsung OPPO. Motorola Honor 1260 480 . \r\nHuawei Pura 70 . HarmonyOS Next, . \r\nHuawei Apple, iPhone. Apple , , Huawei. Apple Huawei, iPhone. \r\n , Huawei , , . , , ."
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Overclockers.ru"
+//             },
+//             "author": "goldas",
+//             "title": "Huawei реализовала 8 миллионов процессоров Kirin в первом квартале 2024 года",
+//             "description": "Такой результат позволил компании обойти по выручки от продажи процессоров компанию Google",
+//             "url": "https://overclockers.ru/blog/goldas/show/159610/Huawei-realizovala-8-millionov-processorov-Kirin-v-pervom-kvartale-2024-goda",
+//             "urlToImage": "https://overclockers.ru/st/legacy/blog/360392/519568_O.png",
+//             "publishedAt": "2024-05-24T02:41:09Z",
+//             "content": "HiSilicon Huawei, Kirin, . Canalys, 2024 8 Kirin, 6 . \r\n  , Huawei - . Huawei Google 2024 . Google 2 2 .\r\n  , Samsung MediaTek . , Samsung 18 9 , MediaTek 114 , 23 , .\r\n Qualcomm 75 37 . , Apple, 56 … [+130 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Iphone-mania.jp"
+//             },
+//             "author": "m7000",
+//             "title": "Apple、iOS17.5のバグにiCloud写真は無関係だと強調。詳細を説明",
+//             "description": "Appleは今週初め、iOS17.5.1およびiPadOS17.5.1をリリースし、iOS17.5およびiPadOS17.5インストール後に削除した写真が復活する問題に対処しました。同社はリリースノートで、このバグは「デ […]",
+//             "url": "https://iphone-mania.jp/news-580853/",
+//             "urlToImage": "https://iphone-mania.jp/uploads/2024/05/24/Apple-Logo.png",
+//             "publishedAt": "2024-05-24T04:21:04Z",
+//             "content": "AppleiOS17.5.1iPadOS17.5.1iOS17.5iPadOS17.5iCloud9to5Mac\r\niOS17.510\r\niCloudAppleiCloud\r\nAppleiCloudiCloudiCloud\r\nOSNAND\r\nApple\r\n<ol><li></li><li></li><li>iPhone/ipad</li></ol>Apple\r\niOS17.5.1iOS17.5\r… [+35 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Iphone-mania.jp"
+//             },
+//             "author": "lexi",
+//             "title": "日本でもサードパーティーアプリストアの登場が濃厚に",
+//             "description": "欧州のデジタル市場法（DMA）の日本版に相当する「スマホソフトウェア競争促進法」の法案が、22日の衆議院経済産業委員会で全会一致で可決されました。この法案は来月会期末を迎える会期中に両院を通過する可能性が高く、日本でもサードパーティーアプリストアが登場する見通しです。",
+//             "url": "https://iphone-mania.jp/news-580861/",
+//             "urlToImage": "https://iphone-mania.jp/uploads/2024/05/24/93979cd19dff878f31cf4b8e5b239784.png",
+//             "publishedAt": "2024-05-24T05:55:23Z",
+//             "content": "DMA22\r\nAppleApp StoreAndroidGoogle Play2\r\n27DMA\r\nApp Store15%30%\r\nAppleAndroidMetaMicrosoftiOSAndroid\r\nDMA10%10%\r\n2025\r\nSource: The Japan Times, \r\nPhoto: Apple"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Iphone-mania.jp"
+//             },
+//             "author": "FT729",
+//             "title": "折りたたみMacBookはM5搭載、2種類のディスプレイサイズで2025年量産開始？",
+//             "description": "Appleは、M5を搭載する折りたたみMacBookを開発しており、早いものは2025年第4四半期（10月〜12月）に量産が開始されるとの予想を、アナリストのミンチー・クオ氏が伝えています。 順調に開発が進めば発売時期は […]",
+//             "url": "https://iphone-mania.jp/news-580854/",
+//             "urlToImage": "https://iphone-mania.jp/uploads/2024/05/24/355ca86d110d799d56dc2b1338542b0d.jpg",
+//             "publishedAt": "2024-05-24T03:15:05Z",
+//             "content": "AppleM5MacBook202541012\r\n202616ELiPad miniApple\r\nMacBook\r\n<ul><li>M5</li><li>20.2519.8</li><li>14151314</li><li>20.25202541012</li><li>28.82026113</li><li></li><li></li><li>600650200250</li></ul>LG D… [+126 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Kocpc.com.tw"
+//             },
+//             "author": "達小編",
+//             "title": "漫威首款互動式 Disney+ 原創故事《What If…?– An Immersive Story 》5 月 30 日將在 Apple Vision Pro 上限時免費推出",
+//             "description": "漫威宣布將與光影魔幻工業公司 ILM Immersive 合作推出世界上第一部互動式 Disney+ 原創故事 […]\nThe post 漫威首款互動式 Disney+ 原創故事《What If…?– An Immersive Story 》5 月 30 日將在 Apple Vision Pro 上限時免費推出 appeared first on 電腦王阿達.",
+//             "url": "https://www.kocpc.com.tw/archives/548296",
+//             "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2024/05/20240523225757_0_ddd490.jpg",
+//             "publishedAt": "2024-05-24T02:00:59Z",
+//             "content": "ILM Immersive Disney+ What If? An Immersive Story What If? An Immersive Story 5 30 Apple Vision Pro \r\nWhat If? An Immersive Story WATCHER \r\n WATCHER\r\nWong (THE COLLECTOR) \r\n Wong \r\n(THE COLLECTOR) \r\n… [+226 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Bloguismo.com"
+//             },
+//             "author": "Anairas",
+//             "title": "Pay By Mobile Casinos United states",
+//             "description": "Content Welches Ist As part of Das Auszahlung Bei Obsiegen Elementar? Traktandum Mobile Casinos By Category Mehr Daten Unter einsatz von Spielbank Boni Our Best Tatsächlich Money Mobile Casinos Diese Besten Mobile Verbunden Casinos Im Abmachung Zocker vermöge…",
+//             "url": "https://www.bloguismo.com/pay-by-mobile-casinos-united-states/",
+//             "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+//             "publishedAt": "2024-05-24T02:12:02Z",
+//             "content": "Zocker vermögen die Boni vorteil, um ein Guthaben nach hochzählen und weitere Möglichkeiten unter Gewinne zu haben. Taschentelefon Casinos geschrieben stehen für eine weite Gesamtheit von Aufführen, … [+5157 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Bloguismo.com"
+//             },
+//             "author": "Anairas",
+//             "title": "Slots",
+//             "description": "Articles Position three-dimensional Best On line Slots Games Incentive Bij Local casino Ports More Harbors Topics There’s a large amount of additional extra game within the free ports. Some are extremely creative and you will unique, offering arcade-layout ha…",
+//             "url": "https://www.bloguismo.com/slots/",
+//             "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+//             "publishedAt": "2024-05-24T04:53:20Z",
+//             "content": "Theres a large amount of additional extra game within the free ports. Some are extremely creative and you will unique, offering arcade-layout have that will be interactive and invite you to definitel… [+6227 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Bloguismo.com"
+//             },
+//             "author": "Anairas",
+//             "title": "Angeschlossen Spielsaal Nach Kalkulation Pro Ostmark 2024",
+//             "description": "Content So Vermögen Eltern Unser Paysafecard Über Mehrwert Auf diese weise Allemal Werden Mobile Smartphone Gutschriften Ist Online Kasino Qua Handyrechnung Retournieren Schweizerische eidgenossenschaft Rechtens? Die eine Casino Einzahlung via Handyrechnung s…",
+//             "url": "https://www.bloguismo.com/angeschlossen-spielsaal-nach-kalkulation-pro-ostmark-2024/",
+//             "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+//             "publishedAt": "2024-05-24T01:07:54Z",
+//             "content": "Die eine Casino Einzahlung via Handyrechnung sei monatlich in das Handyabrechnung dahinter haben sein. Deshalb können Die leser pauschal diesseitigen guten Gesamtschau über Deren Einzahlungen inoffiz… [+5858 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Bloguismo.com"
+//             },
+//             "author": "Anairas",
+//             "title": "Happy Larry’s Lobstermania dos Position",
+//             "description": "Content Attributes of Harbors Having Bonus Series Where to find A knowledgeable On-line casino Having 100 percent free Slot Game? Do i need to Withdraw A no-deposit Bonus? Casino games And no Deposit Bonuses Offered This easy changes gives a chance to get lar…",
+//             "url": "https://www.bloguismo.com/happy-larrys-lobstermania-dos-position/",
+//             "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+//             "publishedAt": "2024-05-24T00:28:08Z",
+//             "content": "This easy changes gives a chance to get larger. The new Double Diamond slot is actually a world-notable step 3-reel video game you to assisted revolutionize the brand new digital position industry. I… [+6216 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Bloguismo.com"
+//             },
+//             "author": "Anairas",
+//             "title": "Elvis The new King Existence Position",
+//             "description": "Articles Wheel Away from Luck Progressive Ports Gameplay Interactive Casino slot games Analysis Zero Totally free Games Willing to Play Cleopatra The real deal? Online gambling The new spend-desk within this position is extremely flexible and you can diverse.…",
+//             "url": "https://www.bloguismo.com/elvis-the-new-king-existence-position/",
+//             "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+//             "publishedAt": "2024-05-24T03:15:37Z",
+//             "content": "The new spend-desk within this position is extremely flexible and you can diverse. People can also be discovered various other combos that lead to various type of compensation. Because of the form of… [+6341 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Bloguismo.com"
+//             },
+//             "author": "Anairas",
+//             "title": "Best A real income Casinos on the internet For the Us 2024",
+//             "description": "Content What are the Best Gambling establishment Sign up Bonus Also provides From the United states of america? Finest Five Preferred Free Online casino games 2024 Quick Withdrawal Times Most widely used Online casino games In america Editor’s Find: Finest Nj…",
+//             "url": "https://www.bloguismo.com/best-a-real-income-casinos-on-the-internet-for-the-us-2024/",
+//             "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+//             "publishedAt": "2024-05-24T01:42:59Z",
+//             "content": "Any winnings obtained regarding the 20 Bonus Dollars commonly qualified to have withdrawal unless the ball player has made a deposit and fulfilled the fresh betting specifications. In cases like this… [+7071 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "The Mac Observer"
+//             },
+//             "author": "Nick deCourville",
+//             "title": "Apple Watch SE 2nd Gen Review: Still Worth It After 2 Years?",
+//             "description": "Today, I'm taking a look at the second-generation Apple Watch SE. I've owned this device for around two years now, and overall I'm really happy with it. However, is this a device that's worth buying in 2024? Considering the rumors about the third-generation S…",
+//             "url": "https://www.macobserver.com/apple-watch/apple-watch-se-second-gen/",
+//             "urlToImage": "https://www.macobserver.com/wp-content/uploads/2024/05/AppleWatchSETwoYearReviewMay2024Featured.jpg",
+//             "publishedAt": "2024-05-24T03:42:41Z",
+//             "content": "Today, I’m taking a look at the second-generation Apple Watch SE. I’ve owned this device for around two years now, and overall I’m really happy with it. However, is this a device that’s worth buying … [+8247 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "The Mac Observer"
+//             },
+//             "author": "Kanika Modi",
+//             "title": "Fixed: Can’t Send Photos to Non-iPhone Users With Messages",
+//             "description": "We've all been there: the internet is down, you want to share a hilarious meme or a touching image with your friend, but they use another smartphone brand. Since iMessage isn't available, the only option is MMS. However, as luck would have it, Messages also a…",
+//             "url": "https://www.macobserver.com/iphone/cant-send-photos-non-iphone-users-messages/",
+//             "urlToImage": "https://www.macobserver.com/wp-content/uploads/2024/05/Cant-Send-Photos-to-Non-iPhone-Users-With-Messages.png",
+//             "publishedAt": "2024-05-24T02:02:13Z",
+//             "content": "We’ve all been there: the internet is down, you want to share a hilarious meme or a touching image with your friend, but they use another smartphone brand. Since iMessage isn’t available, the only op… [+2400 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Xataka.com.mx"
+//             },
+//             "author": "Miguel Gutierrez",
+//             "title": "Desplome de precio para despedir el Hot Sale 2024: iPhone 12 Pro de 128 GB reacondicionado por menos de 6,900 pesos en Mercado Libre",
+//             "description": "Una de las ventajas de los dispositivos Apple, es que con el paso de los años estos siguen recibiendo soporte y funcionan de manera óptima para la mayoría de usuarios. Es por ello que te recomendamos echarle un ojo a este iPhone 12 Pro reacondicionado de 128 …",
+//             "url": "https://www.xataka.com.mx/seleccion/desplome-precio-para-despedir-hot-sale-2024-iphone-12-pro-128-gb-reacondicionado-6-900-pesos-mercado-libre",
+//             "urlToImage": "https://i.blogs.es/941b47/oferta-iphone-12-pro-reacondicionado-promocion-descuento-barato/840_560.jpeg",
+//             "publishedAt": "2024-05-24T00:31:33Z",
+//             "content": "Una de las ventajas de los dispositivos Apple, es que con el paso de los años estos siguen recibiendo soporte y funcionan de manera óptima para la mayoría de usuarios. Es por ello que te recomendamos… [+2132 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Fronterasblog.com"
+//             },
+//             "author": "Diego González",
+//             "title": "El gol más importante de la historia",
+//             "description": "Hay goles y goles. Golazos de un gran mérito técnico y churros que entran por pura suerte. Goles intrascendentes y goles que serán recordados por siempre; goles que nos hicieron llorar y goles que nos enloquecieron de júbilo, muy habitualmente… Seguir leyendo…",
+//             "url": "https://fronterasblog.com/2024/05/24/el-gol-mas-importante-de-la-historia/",
+//             "urlToImage": "https://fronterasblog.com/wp-content/uploads/2024/05/lisboa2.jpg",
+//             "publishedAt": "2024-05-24T06:08:23Z",
+//             "content": "Hay goles y goles. Golazos de un gran mérito técnico y churros que entran por pura suerte. Goles intrascendentes y goles que serán recordados por siempre; goles que nos hicieron llorar y goles que no… [+7970 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Android Headlines"
+//             },
+//             "author": "Yackulic Khristopher",
+//             "title": "The evolution of mobile app development: Trends to watch in 2024",
+//             "description": "The mobile app landscape is constantly evolving, with new technologies and user expectations shaping the way apps are designed and developed. In 2024, we can expect to see a surge in innovative trends that will redefine how we interact with mobile apps. This …",
+//             "url": "https://www.androidheadlines.com/2024/05/the-evolution-of-mobile-app-development-trends-to-watch-in-2024.html",
+//             "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/05/Digital-image-8394348934-jpg.webp",
+//             "publishedAt": "2024-05-24T06:15:51Z",
+//             "content": "The mobile app landscape is constantly evolving, with new technologies and user expectations shaping the way apps are designed and developed. In 2024, we can expect to see a surge in innovative trend… [+4693 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Smartmania.cz"
+//             },
+//             "author": "Michael Chrobok",
+//             "title": "Xiaomi okopírovalo kontroverzní reklamu Applu, ovšem s jednou zásadní změnou",
+//             "description": "<ul>\n<li>Rozporuplná reklama od Applu se dočkala dalšího klonu</li>\n<li>Tentokrát si původní myšlenku vypůjčila čínská společnost Xiaomi</li>\n<li>Skrze spot láká na spuštění prodeje smartphonu Xiaomi 14 Civi</li>\n</ul>\nReklama společnosti Apple s názvem Crush…",
+//             "url": "https://smartmania.cz/?p=335906",
+//             "urlToImage": "https://smartmania.cz/wp-content/uploads/2024/05/Xiaomi-clones-Apple-Crush-ad.jpg.jpg",
+//             "publishedAt": "2024-05-24T04:30:37Z",
+//             "content": "<ul><li>Rozporuplná reklama od Applu se dokala dalího klonu</li><li>Tentokrát si pvodní mylenku vypjila ínská spolenost Xiaomi</li><li>Skrze spot láká na sputní prodeje smartphonu Xiaomi 14 Civi</li>… [+2225 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Nyteknik.se"
+//             },
+//             "author": "TT",
+//             "title": "AI-racet: ”Sverige och Europa verkar ha halkat efter”",
+//             "description": "Det blev kraftiga kurslyft i AI-sektorn efter branschbjässen Nvidias senaste rapport. Men i Stockholm var reaktionen knappt mätbar.",
+//             "url": "https://www.nyteknik.se/tech/ai-racet-sverige-och-europa-verkar-ha-halkat-efter/4263029",
+//             "urlToImage": "https://image.nyteknik.se/4263032.jpg?imageId=4263032&x=0&y=22.5&cropw=100&croph=71.67&panox=0&panoy=22.5&panow=100&panoh=71.67&width=1200&height=683",
+//             "publishedAt": "2024-05-24T05:15:00Z",
+//             "content": "\"Om man ser på AI-driven datatrafik verkar det som att Sverige hela Europa har halkat efter\", enligt Johan Nilke, fondförvaltare med fokus på tekniksektorn.\r\n\"Det behöver inte betyda att vi (Sverige)… [+1743 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Minneapolis Star Tribune"
+//             },
+//             "author": "Star Tribune",
+//             "title": "Thursday's prep results",
+//             "description": "Here's what happened in Minnesota high school sports on Thursday.",
+//             "url": "https://www.startribune.com/thursdays-prep-results/600368329/",
+//             "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1716311871",
+//             "publishedAt": "2024-05-24T04:01:56Z",
+//             "content": "THURSDAY\r\nbaseball\r\nLAKE\r\n Minnetonka 2, Edina 1\r\n St. Michael-Albertville 4, Buffalo 1\r\n Wayzata 7, Eden Prairie 4\r\nMETRO WEST\r\n New Prague 3, Bloomington Jefferson 0\r\n Waconia 6, Chanhassen 3\r\nMINN… [+7368 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Pleated-jeans.com"
+//             },
+//             "author": "Alex Buscemi",
+//             "title": "Woman Finds Her Dog Up For Adoption A Year After She Had Him Put Down",
+//             "description": "Just last year, Kristie Pereira was living her best dog mom life, sharing adorable videos of her hound-mix pup, Beau, and soaking up every precious moment. Adopted from a shelter in Northern Virginia, Beau quickly became the apple of Kristie’s eye. Fast forwa…",
+//             "url": "https://pleated-jeans.com/2024/05/23/woman-thought-she-put-dog-down-finds-him-up-for-adoption/",
+//             "urlToImage": "https://pleated-jeans.com/wp-content/uploads/2024/05/woman-thought-she-put-dog-down-finds-him-up-for-adoption.jpg",
+//             "publishedAt": "2024-05-24T00:22:41Z",
+//             "content": "Just last year, Kristie Pereira was living her best dog mom life, sharing adorable videos of her hound-mix pup, Beau, and soaking up every precious moment. Adopted from a shelter in Northern Virginia… [+4383 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Elconfidencial.com"
+//             },
+//             "author": "M. Mcloughlin",
+//             "title": "Sam Altman es el último gran villano de Silicon Valley y la culpa no es de Scarlett Johansson",
+//             "description": "La supuesta copia de la voz de la actriz por parte de OpenAI junto a la salida de personas clave de la compañía desata una tormenta de críticas que cuestionan los verdaderos intereses del CEO de la compañía",
+//             "url": "https://www.elconfidencial.com/tecnologia/2024-05-24/sam-altman-mentiras-medias-verdades_3889290/",
+//             "urlToImage": "https://images.ecestaticos.com/DzEFlHhG29FCO02SpwPhzwvuaVc=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/b5c/3af/a7a/b5c3afa7a39727e66e863753650e63bf.jpg",
+//             "publishedAt": "2024-05-24T03:00:00Z",
+//             "content": "\"Intento no pensar demasiado en la competencia, pero no puedo dejar de pensar en la diferencia estética entre OpenAI y Google\", escribió a modo de dardo Sam Altman hace siete días en la red social an… [+13038 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Rlsbb.cc"
+//             },
+//             "author": "saamaan1@yahoo.com (Master)",
+//             "title": "Wizardry Proving Grounds of the Mad Overlord-TENOKE",
+//             "description": "Release Description: Craft your own party of adventurers and head into the labyrinth at the behest of the mad overlord Trebor, in search of the amulet stolen by the evil wizard Werdna. Battle groups of challenging enemies, avoid hidden traps, and make your wa…",
+//             "url": "https://rlsbb.cc/wizardry-proving-grounds-of-the-mad-overlord-tenoke/",
+//             "urlToImage": null,
+//             "publishedAt": "2024-05-24T02:07:53Z",
+//             "content": "Release Description:\r\n Craft your own party of adventurers and head into the labyrinth at the behest of the mad overlord Trebor, in search of the amulet stolen by the evil wizard Werdna. Battle group… [+1085 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Gagadget.com"
+//             },
+//             "author": "gagadget.com",
+//             "title": "Аналитик: MacBook со складным дисплеем будет иметь 18.8-дюймовый экран",
+//             "description": "По информации аналитика, инсайдера и основателя компании&nbsp;Display Supply Chain Consultants Росса Янга (Росс Янг), Apple&nbsp;решила изменить диагональ экрана устройства. Вместо 20.5-дюймового гибкого дисплея, новинка&nbsp;получит панель на&nbsp;18.76 дюйм…",
+//             "url": "https://gagadget.com/ru/462880-analitik-macbook-so-skladnyim-displeem-budet-imet-188-dyujmovyij-ekran/",
+//             "urlToImage": "https://gagadget.com/media/cache/d0/ca/d0ca582943f436111ec9f14832f9e8c4.jpg",
+//             "publishedAt": "2024-05-24T04:57:36Z",
+//             "content": "MacBook .\r\n,  Display Supply Chain Consultants ( ), Apple  . 20.5- ,    18.76 .  , , . \r\n, MacBook   . , .\r\n,   2026 .\r\nVia: MacRumors"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Blogthinkbig.com"
+//             },
+//             "author": "José María López",
+//             "title": "Qué es Project Astra: el asistente de IA de Google hace realidad la ficción",
+//             "description": "Prácticamente todas las empresas tecnológicas andan enfrascadas en proyectos relacionados con la inteligencia artificial. Y Google es una de ellas. Tiene claro que su futuro pasa por integrar IA en su ecosistema de productos y …\n Qué es Project Astra: el asis…",
+//             "url": "https://blogthinkbig.com/project-astra-asistente-ia",
+//             "urlToImage": "https://blogthinkbig.com/wp-content/uploads/sites/4/2024/05/Project-Astra-Searching-Example.jpg?fit=1920%2C1280",
+//             "publishedAt": "2024-05-24T06:15:47Z",
+//             "content": "Prácticamente todas las empresas tecnológicas andan enfrascadas en proyectos relacionados con la inteligencia artificial. Y Google es una de ellas. Tiene claro que su futuro pasa por integrar IA en s… [+4655 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Computerworld.dk"
+//             },
+//             "author": "Thomas Møgelbjerg",
+//             "title": "Apples Wi-Fi-system bestemmer din lokation, når du skal finde vej – men kan også bruges til masseovervågning",
+//             "description": "Designet af Apples system gjorde det muligt for forskerne at oprette en database med 490 millioner adgangspunkter, som de derefter kunne bruge til at identificere og spore enkeltpersoners og gruppers bevægelser over tid.",
+//             "url": "https://www.computerworld.dk/art/287378/apples-wi-fi-system-bestemmer-din-lokation-naar-du-skal-finde-vej-men-kan-ogsaa-bruges-til-masseovervaagning",
+//             "urlToImage": "https://www.computerworld.dk/fil/215372?width=600&height=315&focus=1",
+//             "publishedAt": "2024-05-24T06:10:00Z",
+//             "content": "Designet af Apples system gjorde det muligt for forskerne at oprette en database med 490 millioner adgangspunkter, som de derefter kunne bruge til at identificere og spore enkeltpersoners og gruppers… [+2302 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Tabletowo.pl"
+//             },
+//             "author": "Wojciech Kulik",
+//             "title": "Samsung dołącza do wyścigu o chipsety",
+//             "description": "Ery 2-nm układów SoC możemy doczekać się szybciej niż się wydawało. Co więcej, nie tylko za sprawą firmy Apple, ale też Samsunga.Przeczytaj pełny artykuł tutaj: Samsung dołącza do wyścigu o chipsety",
+//             "url": "https://www.tabletowo.pl/samsung-exynos-2600-chipset-2nm/",
+//             "urlToImage": "https://www.tabletowo.pl/wp-content/uploads/2021/01/Exynos-logo-zrodlo-Samsung-2.jpg",
+//             "publishedAt": "2024-05-24T06:27:18Z",
+//             "content": "Ery 2-nm ukadów SoC moemy doczeka si szybciej ni si wydawao. I chocia wygldao na to, e to Apple wraz z TSMC otworzy nam do niej bram, to teraz nowe doniesienia wskazuj na to, e Samsung moe si z nimi … [+1584 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "TechNode"
+//             },
+//             "author": "Jill Shen and TechNode Staff",
+//             "title": "BEYOND EXPO 2024 | Asian tech unicorn founders share growth story, AI vision",
+//             "description": "Founders from some of the most promising unicorn companies in Asia on Thursday shared their experiences and insights about dealing with challenges and achieving success at BEYOND EXPO 2024, one of the largest tech events in the region. Below are highlights fr…",
+//             "url": "http://technode.com/2024/05/24/beyond-expo-2024-asian-tech-unicorn-founders-share-growth-story-ai-vision/",
+//             "urlToImage": "https://technode.com/wp-content/uploads/2024/05/BEI0987-scaled.jpg",
+//             "publishedAt": "2024-05-24T02:26:06Z",
+//             "content": "Every Wednesday and Friday, TechNodes Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.\r\nFounders from some of the most promising unicorn compan… [+6239 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Cnbeta.com.tw"
+//             },
+//             "author": "ytzong",
+//             "title": "投行看好苹果AI及其对iPhone 16销售的影响 建议投资者不要担心中国市场",
+//             "description": "投资公司韦德布什（Wedbush）看好苹果人工智能及其对 iPhone 16 销售的影响，认为它将推动 2025 年的超级周期。Wedbush 对苹果公司的举措大加赞赏，认为Apple Vision Pro将推动人工智能的发展，并告诉投资者不要担心中国市场的销售。\r\n\nWedbush 将苹果目标股价从 250 美元再次上调至 275 美元，看涨苹果公司在2024年下半年推动人工智能发展的预期。说明称，对于苹果公司首席执行官蒂姆-库克（Tim Cook）来说，苹果公司在 WWDC 期间引入人工智能可能是这十年来最重…",
+//             "url": "https://www.cnbeta.com.tw/articles/tech/1432148.htm",
+//             "urlToImage": "https://static.cnbetacdn.com/article/2024/0524/d26c40b21ca1493.jpg",
+//             "publishedAt": "2024-05-24T01:36:21Z",
+//             "content": "0cnBeta.COM  2024-05-24 09:25:57\r\nWedbush iPhone 16 2025 Wedbush Apple Vision Pro\r\nWedbush 250 275 2024\r\n-Tim Cook WWDC iPhone 16\r\niPhone 16 2025 6 9 \r\n 2024 WWDC iOS 18 iPhone 16"
+//         },
+//         {
+//             "source": {
+//                 "id": "bild",
+//                 "name": "Bild"
+//             },
+//             "author": "Philipp-Marc Schmid",
+//             "title": "Hamas-Terrorist packt aus - „Vater hat sie vergewaltigt, dann ich“",
+//             "description": "Dieses Geständnis lässt einem das Blut in den Adern gefrieren. Seelenruhig erzählt Hamas-Terrorist Abdallah (18), wie er mit seinem Vater eine Israelin vergewaltigt hat.",
+//             "url": "https://www.bild.de/politik/ausland-und-internationales/hamas-terrorist-gesteht-vater-hat-sie-vergewaltigt-dann-ich-664f4ce3e374ea67b85b4401",
+//             "urlToImage": "https://images.bild.de/664f4ce3e374ea67b85b4401/102a24309b9ba9ef910fc8de91220135,184ead5b?w=1280",
+//             "publishedAt": "2024-05-24T06:24:31Z",
+//             "content": "Dieses Geständnis lässt einem das Blut in den Adern gefrieren. Seelenruhig erzählt Hamas-Terrorist Abdallah (18) von dem abscheulichen Verbrechen, das er gemeinsam mit seinem Vater Jamal (47) und sei… [+2380 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Parkablogs.com"
+//             },
+//             "author": "Teoh Yi Chie",
+//             "title": "M4 iPad Pro (2024) vs Tab S9 series tablets (artist comparison)",
+//             "description": "11-inch M4 iPad Pro (left) and 14.6-inch Samsung Tab S9 Ultra\r\n\nIn this review, we will compare the M4 iPad Pro vs the Samsung Tab S9 series tablets from the artist perspective for drawing purposes. I will only cover features that matter to artist so I won't …",
+//             "url": "https://www.parkablogs.com/picture/m4-ipad-pro-2024-vs-tab-s9-series-tablets-artist-comparison",
+//             "urlToImage": null,
+//             "publishedAt": "2024-05-24T03:18:51Z",
+//             "content": "11-inch M4 iPad Pro (left) and 14.6-inch Samsung Tab S9 Ultra\r\nIn this review, we will compare the M4 iPad Pro vs the Samsung Tab S9 series tablets from the artist perspective for drawing purposes. I… [+15530 chars]"
+//         },
+//         {
+//             "source": {
+//                 "id": null,
+//                 "name": "Gamebusiness.jp"
+//             },
+//             "author": "GameBusiness.jp",
+//             "title": "【ポッドキャスト】#3 ハイブリッドカジュアルのマネタイズ戦略―すべては「時間短縮」のため【GameBusiness.fm: Select & Start #3】",
+//             "description": "今回のテーマは「ハイブリッドカジュアルゲームのゲーム性」について。スマホゲームのノウハウを持つ日本のデベロッパーにこそ勝機がありそうです。",
+//             "url": "https://www.gamebusiness.jp/article/2024/05/24/23109.html",
+//             "urlToImage": "https://www.gamebusiness.jp/imgs/ogp_f/135822.jpg",
+//             "publishedAt": "2024-05-24T05:00:03Z",
+//             "content": "GameBusiness.jpGameBusiness.fm: Select &amp; Start\r\nGame Server Services CEO\r\nGameBusiness.jp \r\nSpotify\r\nApple Music\r\nYouTube\r\nAmazon Music\r\nAmazon Music"
+//         }
+//     ]
+// }
+
+
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
+
+  {
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "John Fanta, Michael Cohen",
+        "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+        "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+        "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-29T20:59:30Z",
+        "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "New Micah Parsons Show ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-11-27T20:37:24.6381564Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": " Mikal Bridges Interview ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-11-27T20:37:24.3882176Z",
+        "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+      }
+    ]
+  }
